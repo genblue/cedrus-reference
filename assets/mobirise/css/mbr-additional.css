@@ -1131,46 +1131,14 @@ body {
   background-color: #ffffff;
   opacity: 0.4;
 }
-.cid-rwxHndiRht {
-  background: #ffffff;
-  padding-top: 45px;
-  padding-bottom: 0px;
-}
-.cid-rwxHndiRht .container-fluid {
-  padding: 0 3rem;
-}
-.cid-rwxHndiRht .image-block {
-  position: relative;
-  margin: auto;
-}
-.cid-rwxHndiRht .image-block img {
-  width: 100%;
-}
-.cid-rwxHndiRht .image-block .img-caption {
-  width: 100%;
-  padding: 1rem 1rem;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-}
-.cid-rwxHndiRht .image-block .img-caption p {
-  margin-bottom: 0;
-}
-.cid-rwxHndiRht .mbr-text {
-  position: relative;
-}
-@media (max-width: 767px) {
-  .cid-rwxHndiRht .container-fluid {
-    padding: 0 1rem;
-  }
-}
-.cid-rwFetTysLt {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-rwJik9Jrbh {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-rwFetTysLt .mbr-section-subtitle {
-  color: #767676;
+.cid-rwJik9Jrbh .media-container-row {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
 }
 .cid-rwEZ9MdXK6 {
   background: #ffffff;
@@ -1332,4 +1300,63 @@ body {
   .cid-rwxsge0IXU .mbr-text {
     margin-bottom: 1.5rem;
   }
+}
+.cid-rwxHndiRht {
+  background: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 0px;
+}
+.cid-rwxHndiRht .container-fluid {
+  padding: 0 3rem;
+}
+.cid-rwxHndiRht .image-block {
+  position: relative;
+  margin: auto;
+}
+.cid-rwxHndiRht .image-block img {
+  width: 100%;
+}
+.cid-rwxHndiRht .image-block .img-caption {
+  width: 100%;
+  padding: 1rem 1rem;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.cid-rwxHndiRht .image-block .img-caption p {
+  margin-bottom: 0;
+}
+.cid-rwxHndiRht .mbr-text {
+  position: relative;
+}
+@media (max-width: 767px) {
+  .cid-rwxHndiRht .container-fluid {
+    padding: 0 1rem;
+  }
+}
+.cid-rwFetTysLt {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rwFetTysLt .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rwJhcYBPF0 {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-rwJhcYBPF0 .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-rwJhN6MHrz {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rwJhN6MHrz .media-container-row {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
 }
